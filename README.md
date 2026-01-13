@@ -15,6 +15,7 @@
 ![License: Apache 2.0](https://img.shields.io/github/license/cachix/devenv)
 [![Version](https://img.shields.io/github/v/release/cachix/devenv?color=green&label=version&sort=semver)](https://github.com/cachix/devenv/releases)
 [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml?branch=main)
+[![Devenv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jiezhuzzz/devenv/refs/heads/feat/devenv-badge/logos/badges/devenv-black.json)](https://devenv.sh/)
 
 Running ``devenv init`` generates ``devenv.nix``:
 
@@ -117,7 +118,7 @@ Options:
 
       --log-format <LOG_FORMAT>
           Configure the output format of the logs.
-          
+
           [default: cli]
 
           Possible values:
@@ -127,12 +128,12 @@ Options:
 
   -j, --max-jobs <MAX_JOBS>
           Maximum number of Nix builds at any time.
-          
+
           [default: 8]
 
   -u, --cores <CORES>
           Maximum number CPU cores being used by a single build.
-          
+
           [default: 2]
 
   -s, --system <SYSTEM>
@@ -158,10 +159,10 @@ Options:
 
   -n, --nix-option <NAME> <VALUE>
           Pass additional options to nix commands.
-          
+
           These options are passed directly to Nix using the --option flag.
           See `man nix.conf` for the full list of available options.
-          
+
           Examples:
             --nix-option sandbox false
             --nix-option keep-outputs true
@@ -169,17 +170,17 @@ Options:
 
   -o, --override-input <NAME> <URI>
           Override inputs in devenv.yaml.
-          
+
           Examples:
             --override-input nixpkgs github:NixOS/nixpkgs/nixos-unstable
             --override-input nixpkgs path:/path/to/local/nixpkgs
 
   -O, --option <OPTION> <VALUE>
           Override configuration options with typed values.
-          
+
           OPTION must include a type: <attribute>:<type>
           Supported types: string, int, float, bool, path, pkg, pkgs
-          
+
           Examples:
             --option languages.rust.channel:string beta
             --option services.postgres.enable:bool true
@@ -188,11 +189,11 @@ Options:
 
   -P, --profile <PROFILE>
           Activate one or more profiles defined in devenv.nix.
-          
+
           Profiles allow you to define different configurations that can be merged with your base configuration.
-          
+
           See https://devenv.sh/profiles for more information.
-          
+
           Examples:
             --profile python-3.14
             --profile backend --profile fast-startup
