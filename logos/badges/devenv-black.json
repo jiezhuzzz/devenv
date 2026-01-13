@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "label": "",
   "message": "Use Devenv",
-  "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARtJREFUOE/Nk89KhFAUh3+KVteLDf2ZrhA1dEMwKDdRS0Ool2jTooh5hvZBrxBBT6JrNy0Ew+VERlQzJaY2URtjXAxEDRJGdPfn4/sO9whFURSo8YT/D7i47OCl/waFjGNjjX+JrUw4ODrF1U0Xrfkmzk/afwRwXRdJkkBVVXQeBTw8PWNuehLrq7zMoXQCm+ZyafNtgmVZCIIAuq7D3N4fJgwGrm974IsMZ8eHvwxwHAdxHJfanuchiiJomoYptoS7+y4Ya6LBOHpxCjbTQHt357OBbdvwfR+cc1BKhwmyLCMMQxiGgZWtvdEJtQED7TRNQQiBJEnIsgyKokAUReR5Xlqpswvov76DkjGYRmv0En9yW5U/sQpWG/ABJOy20cj9z3QAAAAASUVORK5CYII=",
-  "logoWidth": 16,
+  "logoSvg": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMCw0SDRDMi44OSw0IDIsNC44OSAyLDZWMThBMiwyIDAgMCwwIDQsMjBIMjBBMiwyIDAgMCwwIDIyLDE4VjZDMjIsNC44OSAyMS4xMSw0IDIwLDRNMjAsMThINFY2SDIwVjE4TTcuNSwxNUw2LDEzLjVMODUsMTFMNiw4LjVMNy41LDdMMTEuNSwxMUw3LjUsMTVNMTIsMTNIMTdWMTVIMTJWMTNaIiAvPjwvc3ZnPg==",
   "labelColor": "black",
-  "color": "#ffffff"
+  "color": "white",
+  "style": "flat-square"
 }
