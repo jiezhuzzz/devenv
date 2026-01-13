@@ -3,7 +3,7 @@
   "label": "",
   "message": "Use Devenv",
   "logoSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><image xlink:href=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABTklEQVR4AbSRTUsCURSGH/wPtWgTCUJRFpEF48cgboZWbtsELQRXEbR2Y6iIYi6CkloZVGYa6EaYZszaBGaLPqRN2U8pHfISNFQ2eDbn5Vzuc9/3XNu7xbJhsYYPaD11uGo+c/vYMfX6q4Pc8QVbOyX2jtT/AUxvfRmaOtB1nXK5jKqquGbsyEtTLDrtNO9fuLxp03x4FQhTQDQaJRQKEYlE6O3g+nMHuRON2O45B6f6zwBx+gchHGiaRrFYpFar4ff7CQaDBAIBHCPgHAPHKLi6MXpxFqYnBFoA4vE44XDYsN1oNKhUKtTrdaqlQ/L721TP8rS6X9mLc9d++w4QkwGFcJBIJCgUCmSzWZLJpKEzmQypVMrQ6XSajbVlYpsrrK8q4hkBkCQJRVGQZRm3221on8+Hx+MxtNfrZW5yHGnewWy39wkC0B8M2i0DPgAAAP//fF7SUAAAAAZJREFUAwDdd6vhqRzDMwAAAABJRU5ErkJggg==\" x=\"0\" y=\"0\" width=\"16\" height=\"16\"/></svg>",
-  "labelColor": "black",
-  "color": "white",
+  "labelColor": "white",
+  "color": "black",
   "style": "flat-square"
 }
