@@ -15,7 +15,10 @@
 ![License: Apache 2.0](https://img.shields.io/github/license/cachix/devenv)
 [![Version](https://img.shields.io/github/v/release/cachix/devenv?color=green&label=version&sort=semver)](https://github.com/cachix/devenv/releases)
 [![CI](https://github.com/cachix/devenv/actions/workflows/release.yml/badge.svg)](https://github.com/cachix/devenv/actions/workflows/release.yml?branch=main)
-[![Devenv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jiezhuzzz/devenv/refs/heads/feat/devenv-badge/logos/badges/devenv-black.json)](https://devenv.sh/)
+[![Devenv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jiezhuzzz/devenv/refs/heads/feat/devenv-badge/logos/badges/devenv-black.json)](https://devenv.sh)
+
+
+[![Open in GitHub Codespaces](https://raw.githubusercontent.com/cachix/devenv/refs/heads/main/logos/devenv-horizontal-light-bg.svg)](https://devenv.sh)
 
 Running ``devenv init`` generates ``devenv.nix``:
 
